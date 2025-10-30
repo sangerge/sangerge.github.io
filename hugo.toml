@@ -1,0 +1,9 @@
+baseURL = 'https://devgunstar.top'
+languageCode = 'en-us'
+title = "DevGunstar"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+theme = "hyde"
